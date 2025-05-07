@@ -93,10 +93,10 @@ The model was evaluated on Apple (AAPL) stock data with impressive results:
 
 | Metric | Value |
 |--------|-------|
-| Test RMSE | $2.47 |
-| Test MAE | $1.89 |
-| Test R² | 0.94 |
-| Correlation | 0.97 |
+| Test RMSE | $6.81 |
+| Test MAE | $3.65 |
+| Test R² | $0.98 |
+| Correlation | 0.98 |
 
 ### Prediction Visualization
 
@@ -126,8 +126,8 @@ Error analysis shows the model's predictions are generally within a narrow range
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/stock-price-prediction.git
-cd stock-price-prediction
+git clone https://github.com/Redoy0/FUTURE_ML_02.git
+cd FUTURE_ML_02
 
 # Create a virtual environment
 python -m venv venv
@@ -195,5 +195,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-  <p>Developed with ❤️ as part of the Future Intern Machine Learning Internship</p>
+  <p>Developed by Md. Sabbir Ahamed as part of the Future Intern Machine Learning Internship</p>
 </div>
