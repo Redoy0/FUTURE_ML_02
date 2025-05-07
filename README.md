@@ -25,7 +25,7 @@ Developed as part of the Future Intern Machine Learning Internship program, this
 - [Dataset](#-dataset)
 - [Model Architecture](#-model-architecture)
 - [Results](#-results)
-- [Installation](#-installation)
+- [Installation](#%EF%B8%8F-installation)
 - [Usage](#-usage)
 - [Code Structure](#-code-structure)
 - [Future Improvements](#-future-improvements)
